@@ -1,5 +1,4 @@
-### Hi there 👋
-https://www.codewars.com/users/elrouss/badges/large
+# Hi there 👋
 
 <!--
 **elrouss/elrouss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
