@@ -1,4 +1,4 @@
-## Codewars badge: <img src="https://www.codewars.com/users/elrouss/badges/micro">
+## Codewars badge: <img src="https://www.codewars.com/users/elrouss/badges/large">
 <!--
 **elrouss/elrouss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
