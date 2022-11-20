@@ -11,7 +11,7 @@ is an extremely creative profession. It’s logic-based creativity.</i> – John
 Would prefer playing "Assassin's Creed", but I'm a hostage of Codewars (Yay!). <b>100+</b> tasks are completed - that's not the end 😜
 <div align="center"><img src="https://www.codewars.com/users/elrouss/badges/large"></div>
 <hr>
-<h3>What I'm focusing on 👨‍💻</h3>
+<h3>👨‍💻 What I'm focusing on:</h3>
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" width="50">
@@ -23,6 +23,9 @@ Would prefer playing "Assassin's Creed", but I'm a hostage of Codewars (Yay!). <
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" width="50">
 </div>
+<hr>
+<h3>✨ My stats:</h3>
+
 <hr>
 
 <!--
