@@ -11,8 +11,8 @@ is an extremely creative profession. It’s logic-based creativity.</i> – John
 Would prefer playing "Assassin's Creed", but I'm a hostage of Codewars (Yay!). <b>100+</b> tasks are completed - that's not the end 😜
 <div align="center"><img src="https://www.codewars.com/users/elrouss/badges/large"></div>
 <hr>
-<h3>👨‍💻 What I'm focusing on:</h3>
-<div>
+<h3 align="center">👨‍💻 What I'm focusing on:</h3>
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="50">
@@ -24,11 +24,14 @@ Would prefer playing "Assassin's Creed", but I'm a hostage of Codewars (Yay!). <
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" width="50">
 </div>
 <hr>
-<h3>✨ My stats:</h3>
-[![GitHub Streak](https://streak-stats.demolab.com?user=elrouss&theme=shades-of-purple&border_radius=1&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+<h3 align="center">✨ My stats:</h3>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=elrouss&theme=shades-of-purple&border_radius=1&date_format=%5BY%20%5DM%20j" height="190"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elrouss&theme=shades-of-purple&langs_count=8" height="190"/>
+</div>
 <hr>
-<h3>🌐 Find me elsewhere:</h3>
-<div>
+<h3 align="center">🌐 Find me elsewhere:</h3>
+<div align="center">
   <a href="https://www.linkedin.com/in/frontend-elrouss/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
