@@ -1,3 +1,5 @@
+<h1><b>Hey, my name is Boris!<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width="40"></b></h1>
+I do 10 month online front-end web development course, offered by Yandex.Praktikum (<a href="https://practicum.yandex.ru/" target="_blank">here</a> is the link, if you are interested).
 <div id="header" display="flex" justify-content="center">
   <img src="https://media.giphy.com/media/vwKp97qL3auSHHrE0Z/giphy.gif" width="300"/>
 </div>
