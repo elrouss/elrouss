@@ -7,7 +7,7 @@
 <i>You might not think that programmers are artists, but programming<br>
 is an extremely creative profession. It’s logic-based creativity.</i> – John Romero
 </blockquote>
-<p>I'm always up to learn something new. At the moment I read two books before bedtime 📚. Try to guess? The Memoirs of Giacomo Casanova... Oops! Nope. The right answers are "Grokking Algorithms" by Aditya Y. Bhargava and "Head First. JavaScript Programming" by Eric Freeman and Elisabeth Robson 🥰</p>
+<p>Coding is like art for me where I can create and bring imaginations to life. I'm always up to learn something new. At the moment I read two books before bedtime 📚. Try to guess? The Memoirs of Giacomo Casanova... Oops! Nope. The right answers are "Grokking Algorithms" by Aditya Y. Bhargava and "Head First. JavaScript Programming" by Eric Freeman and Elisabeth Robson 🥰</p>
 Would prefer playing "Assassin's Creed", but I'm a hostage of Codewars (Yay!). <b>100+</b> tasks are completed - that's not the end 😜
 <div align="center"><img src="https://www.codewars.com/users/elrouss/badges/large"></div>
 <hr>
