@@ -1,4 +1,4 @@
-<h3 align="center"><b>Hey, my name is Boris!<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width="40"></b></h3>
+<h3 align="center"><b>Hello World, my name is Boris!<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width="40"></b></h3>
 <p>I do 10 month online front-end web development course, offered by Yandex.Praktikum (<a href="https://practicum.yandex.ru/">here</a> is the link). The GIF below just shows how the studying process is organized here 😃</p>
 <div id="header" align="center"><img src="https://media.giphy.com/media/vwKp97qL3auSHHrE0Z/giphy.gif" width="250"/></div>
 <p>Since 2022 I've been living and breathing web development. I've had the chance to immerse myself in different projecs. That's how I've found out that most of all I like working in team. And for sure meeting another deadline is indescribable experience 🤩</p>
