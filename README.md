@@ -1,11 +1,12 @@
 <h3 align="center"><b>Hello World, my name is Boris!<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width="40"></b></h3>
-<p>Since 2022 I've been living and breathing web development. I've had the chance to immerse myself in more than 5 projects, 2 of which are made in teams. I love coding, meeting deadlines (it's indescribable experience), but mostly of all I adore catching bugs in a code and do debugging 🐞🔫😄</p>
+<p>Since 2022 I've been living and breathing web development. I've had the chance to immerse myself in more than <b>5</b> projects, <b>2</b> of which are made in teams. I love coding, meeting deadlines (it's indescribable experience), but mostly of all I adore catching bugs in a code and do debugging 🐞🔫😄</p>
 <div id="header" align="center"><img src="https://media.giphy.com/media/vwKp97qL3auSHHrE0Z/giphy.gif" width="250"/></div>
-<p>For me as a person who adores arts coding is a way to create and bring imaginations to life: it seems being a piece (or rather masterpiece) of architecture with sculptures, paintings and vases inside it. The co-founder of <i>id Software</i> John Romero has once said:</p>
+<p>The co-founder of <i>id Software</i> John Romero has once said:</p>
 <blockquote>
 <i>You might not think that programmers are artists, but programming<br>
 is an extremely creative profession. It’s logic-based creativity</i>
 </blockquote>
+<p>The quote warms my heart. For me as a person who adores arts coding is a way to create and bring imaginations to life: it seems being a piece (or rather masterpiece) of architecture with sculptures, paintings and vases inside it.</p>
 <p>It must be admitted that I'm a hostage of Codewars. <b>100+</b> tasks are completed - I do convince you that's not the end 😜</p>
 <div align="center"><img src="https://www.codewars.com/users/elrouss/badges/large"></div>
 <hr>
