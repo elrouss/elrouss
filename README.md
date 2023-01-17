@@ -7,7 +7,7 @@
 is an extremely creative profession. It’s logic-based creativity</i>
 </blockquote>
 <p>The quote warms my heart. For me as a person who adores arts coding is a way to create and bring imaginations to life: it seems being a piece (or rather masterpiece) of architecture with sculptures, paintings and vases inside it.</p>
-<p>It must be admitted that I'm a hostage of Codewars. <b>200+</b> tasks are completed - I do convince you that's not the end 😜</p>
+<p>It must be admitted that I'm a hostage of Codewars. <b>250+</b> tasks are completed - I do convince you that's not the end 😜</p>
 <div align="center"><a href="https://www.codewars.com/users/elrouss"><img src="https://www.codewars.com/users/elrouss/badges/large"></a></div>
 <hr>
 
