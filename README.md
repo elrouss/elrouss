@@ -40,7 +40,7 @@
 <a href="https://github.com/elrouss/mesto/blob/main/webpack.config.js"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Иконка 'Webpack'"></a>
 <a href="https://github.com/elrouss/yandex_landing/blob/main/babel.config.js"><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="Иконка 'Babel'"></a>
 <br>
-<i>* - можно кликнуть на каждый значок и в открытой вкладке увидеть написанный мной фрагмент кода</i>
+<i>* - можно кликнуть на каждый значок и в открытой вкладке увидеть пример написанного мной кода</i>
 
 <br>
 
