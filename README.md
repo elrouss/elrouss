@@ -27,7 +27,7 @@
 <a href="https://github.com/elrouss/how-to-learn/blob/main/index.html"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Иконка 'HTML5'"></a>
 <a href="https://www.figma.com/file/kJFAe4gM4V1YT6uDrx4jpF/Month-of-Landings_external-link?t=bRw75piMibawBlDZ-6"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Иконка 'Figma'"></a>
 
-<b>Backend (с февраля 2023):</b>
+<b>Backend (с середины февраля 2023):</b>
 <br>
 <a href=""><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Иконка 'Node JS'"></a>
 <a href=""><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Иконка 'NGINX'"></a>
