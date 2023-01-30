@@ -53,7 +53,7 @@
 <br>
 <b>General:</b>
 <br>
-<a href=""><img src="https://shureed.github.io/images/badge.png" alt="Иконка алгоритмов" width="80"></a> - на данный момент изучаю самостоятельно <b>алгоритмы</b> по книге <a href="https://github.com/egonSchiele/grokking_algorithms">Адитьи Бхаргавы</a> и закрепляю навык написанием <a href="https://codepen.io/collection/ExbBJg">кода</a>
+<a href=""><img src="https://shureed.github.io/images/badge.png" alt="Иконка алгоритмов" width="80"></a> - на данный момент изучаю самостоятельно <b>алгоритмы</b> по книге <a href="https://github.com/egonSchiele/grokking_algorithms">Адитьи Бхаргавы</a> и закрепляю свой навык написанием <a href="https://codepen.io/collection/ExbBJg">кода</a>
 
 <br>
 <br>
