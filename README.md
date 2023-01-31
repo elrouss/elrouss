@@ -5,7 +5,7 @@
  <div align="center">
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="600" alt="Веб-разработчик сидит на стуле напротив большого количества мониторов компьютеров, слушает музыку в наушниках и пишет программный код">
   <br>
-  <details><summary>Что, как не музыка, определяет ритм написания кода?</summary>
+  <details><summary>&laquo;Что, как не музыка, определяет ритм написания кода?&raquo;</summary>
     
 https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3-861f-69494e9d5c49.mp4
 
