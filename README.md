@@ -49,8 +49,8 @@ https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3
 <h2>📈 Дальнейший план обучения (2023):</h2>
 <b>Frontend:</b>
 <br>
-<a href=""><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Иконка 'TypeScript'"></a>
 <a href=""><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Иконка 'Sass (SCSS)'"></a>
+<a href=""><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Иконка 'TypeScript'"></a>
 <a href=""><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Иконка 'Vue'"></a>
 <br>
 <b>General:</b>
