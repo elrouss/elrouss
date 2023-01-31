@@ -5,18 +5,21 @@
  <div align="center">
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="600" alt="Веб-разработчик сидит на стуле напротив большого количества мониторов компьютеров, слушает музыку в наушниках и пишет программный код">
   <br>
+  <details><summary>Что, как не музыка, определяет ритм написания кода?</summary>
+    
+https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3-861f-69494e9d5c49.mp4
+
+  </details>
   (<a href="">здесь</a> появится ссылка на мое резюме)
 </div>
-
-<br>
-
+ 
+ 
 <h2>🧘‍♂️ О себе:</h2>
 Будучи искусствоведом по образованию со степенью <a href="https://diploma.spbu.ru/en/gp/view?id=13325">магистра</a> я знаком со многими стилями. Классицизм, барокко, рококо... Их настолько много и каждый настолько уникален, что сложно выбрать себе в фавориты какой-то один. Однако с началом в 2022 году своего пути во <b>frontend-разработке</b>, я понял: мой самый любимый - <b>функциональный стиль программирования</b>.
 <br>
 <br>
 Учусь на <a href="https://practicum.yandex.ru/web/">веб-разработчика</a> на <b>13</b> спринте из <b>15</b> возможных <a href="https://practicum.yandex.ru/"> в Яндекс Практикуме</a>, сдаю все курсовые проекты в срок, для оттачивания старых навыков и получения новых работаю в свободное время над дополнительными лендингами. Мой секрет успеха прост: <b>я обожаю писать код</b>, работать <a href="https://github.com/Kumiho1/lubimovka"><b>в команде</b></a> и <b>дебажить</b> (или, выражаясь формальным языком, проверять и ликвидировать ошибки в программе)🐞🔫😄
 
-<br>
 <br>
 
 <h2>🔧 Изучаемые языки и технологии:</h2>
@@ -43,8 +46,6 @@
 <br>
 <i>* - можно кликнуть на каждый значок и в открытой вкладке увидеть пример написанного мной кода</i>
 
-<br>
-
 <h2>📈 Дальнейший план обучения (2023):</h2>
 <b>Frontend:</b>
 <br>
@@ -57,7 +58,6 @@
 <a href=""><img src="https://shureed.github.io/images/badge.png" alt="Иконка алгоритмов" width="80"></a> - на данный момент изучаю самостоятельно <b>алгоритмы</b> по книге <a href="https://github.com/egonSchiele/grokking_algorithms">Адитьи Бхаргавы</a> и закрепляю свой навык написанием <a href="https://codepen.io/collection/ExbBJg">кода</a>
 
 <br>
-<br>
 
 <h2 align="center">:man_student: Сертификаты:</h2>
 <div align="center">
@@ -66,12 +66,10 @@
 |---|---|
   |<div align="center">Certificate for participating in creating<br>a landing page for <a href="https://practicum.yandex.ru/">Yandex Praktikum's</a> HR<br>(2022)</div>|<div align="center">Certificate for completion<br>of the intensive course <a href="https://itlogia.ru/">&laquo;Frontend Start&raquo;</a><br>(2022)</div>|
 
-<br>
 <h2 align="center">✨ Статистика и достижения:</h2>
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=elrouss&theme=shades-of-purple&border_radius=1&date_format=%5BY%20%5DM%20j" height="190"/></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elrouss&theme=shades-of-purple&langs_count=8" height="190"/>
-  <br>
   <br>
   
   <a href="https://www.codewars.com/users/elrouss"><img src="https://www.codewars.com/users/elrouss/badges/large" alt="badge showing rating of Boris Zashliapin on Codewars - an educational community for computer programming"></a>
@@ -79,7 +77,6 @@
   решил <b>275+</b> задач на <a href="https://www.codewars.com/users/elrouss">Codewars</a> и <b>250+</b> - на <a href="https://www.freecodecamp.org/elrouss">freeCodeCamp</a>
 </div>
 
-<br>
 <h2 align="center">🌐 Контакты:</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/frontend-elrouss/">
