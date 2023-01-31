@@ -59,12 +59,12 @@ https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3
 
 <br>
 
-<h2 align="center">:man_student: Сертификаты:</h2>
+<h2 align="center">:man_student: Образование:</h2>
 <div align="center">
 
-|<img width="260" src="https://user-images.githubusercontent.com/108838349/211216539-bbb602c4-897b-49dd-868c-2a83df4d720f.png" alt="Scan of a certificate which approves that Boris Zashliapin has participated in creating a landing page for Yandex Praktikum's HR (Human Resources)">|<img src="https://user-images.githubusercontent.com/108838349/211216223-91733ab8-01a9-4414-a389-b7e2c70181b7.jpeg" width="260" alt="Scan of a certificate which approves that Boris Zashliapin has taken an intensive course of online school 'ITLOGIA'">|
-|---|---|
-  |<div align="center">Certificate for participating in creating<br>a landing page for <a href="https://practicum.yandex.ru/">Yandex Praktikum's</a> HR<br>(2022)</div>|<div align="center">Certificate for completion<br>of the intensive course <a href="https://itlogia.ru/">&laquo;Frontend Start&raquo;</a><br>(2022)</div>|
+|<img width="260" src="https://user-images.githubusercontent.com/108838349/211216539-bbb602c4-897b-49dd-868c-2a83df4d720f.png" alt="Скан сертификата, подтверждающий участие Бориса Зашляпина в разработке лендинга по заказу команды HR (Human Resources) Яндекс Практикума">|<img src="https://user-images.githubusercontent.com/108838349/211216223-91733ab8-01a9-4414-a389-b7e2c70181b7.jpeg" width="260" alt="Скан сертификата, подтверждающий прохождение Борисом Зашляпиным интенсива онлайн-школы 'Айтилогия'">|<img src="https://user-images.githubusercontent.com/108838349/215734968-bc6395a5-4a45-4f99-96a6-6e09b457d01c.png" width="200" alt="Скан сертификата, выданного Санкт-Петербургским государственным университетом с подтверждением владения Борисом Зашляпиным английским языком на уровне B2">|
+|---|---|---|
+  |<div align="center"><a href="https://practicum.yandex.ru/">Сертификат</a> об участии в разработке<br><a href="https://github.com/elrouss/yandex_landing">лендинга</a> для HR-команды Яндекс Практикума<br>(2022)</div>|<div align="center"><a href="https://itlogia.ru/">Сертификат</a> о прохождении<br>онлайн-интенсива по теме <a href="https://github.com/elrouss/cars-hw">&laquo;Frontend Start&raquo;</a><br>(2022)</div>|<div align="center"><a href="https://spbu.ru/">Сертификат</a> о сдаче теста по<br>английскому языку (B2)<br>(2016)</div>|
 
 <h2 align="center">✨ Статистика и достижения:</h2>
 <div align="center">
