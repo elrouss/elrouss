@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3
 <a href="https://github.com/elrouss/mesto/blob/main/webpack.config.js"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Иконка 'Webpack'"></a>
 <a href="https://github.com/elrouss/yandex_landing/blob/main/babel.config.js"><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="Иконка 'Babel'"></a>
 <br>
-<i>* - можно кликнуть на каждый значок и в открытой вкладке увидеть пример написанного мной кода</i>
+<i>* - можно кликнуть на каждый значок и в открытой вкладке увидеть в одном из проектов пример написанного мной кода (там же можно более подробно ознакомиться с каждой работой)</i>
 
 <h2>📈 Дальнейший план обучения (весна-лето 2023):</h2>
 <b>Frontend:</b>
