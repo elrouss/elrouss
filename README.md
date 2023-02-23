@@ -89,4 +89,7 @@ https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3
   <a href="https://codepen.io/elrouss">
     <img src="https://img.shields.io/badge/CodePen-black?logo=codepen&logoColor=white&style=for-the-badge">
   </a>
+  <a href="https://www.linkedin.com/in/frontend-elrouss/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
 </div>
