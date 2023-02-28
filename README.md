@@ -26,7 +26,9 @@ https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3
 <b>Frontend:</b>
 <br>
 <a href="https://github.com/elrouss/react-mesto-auth/blob/main/src/components/App/App.js"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Иконка 'React'"></a>
+<a href=""><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Иконка 'TypeScript'"></a>
 <a href="https://github.com/elrouss/competitive-project-team-1/blob/main/scripts/pages/index.js"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Иконка 'JavaScript'"></a>
+<a href=""><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Иконка 'Sass (SCSS)'"></a>
 <a href="https://github.com/Kumiho1/lubimovka/blob/main/blocks/footer/__container/footer__container.css"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Иконка 'СSS3'"></a>
 <a href="https://github.com/elrouss/how-to-learn/blob/main/index.html"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Иконка 'HTML5'"></a>
 
@@ -48,12 +50,10 @@ https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3
 <br>
 <i>* - можно кликнуть на каждый значок и в открытой вкладке увидеть пример написанного мной кода (там же возможно более подробно ознакомиться с той или иной работой; как вариант - выбрать один из репозиториев <a href="https://github.com/elrouss#:~:text=Customize%20your%20pins-,Pinned,-react%2Dmesto%2Dauth">ниже</a> либо посмотреть весь список <a href="https://github.com/elrouss?tab=repositories">тут</a>)</i>
 
-<h2>📈 Дальнейший план обучения (весна-лето 2023):</h2>
-<b>Frontend (с марта 2023):</b>
+<h2>📈 В планах:</h2>
+<b>Frontend:</b>
 <br>
-<a href=""><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Иконка 'Sass (SCSS)'"></a>
 <a href=""><img src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white" alt="Иконка 'PostCSS'"></a>
-<a href=""><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Иконка 'TypeScript'"></a>
 <a href=""><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Иконка 'Vue'"></a>
 <br>
 <b>General:</b>
