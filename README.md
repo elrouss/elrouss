@@ -46,6 +46,7 @@ https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3
 <a href="https://github.com/elrouss/competitive-project-team-1/network"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Иконка 'Git'"></a>
 <a href="https://github.com/elrouss/mesto/blob/main/webpack.config.js"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Иконка 'Webpack'"></a>
 <a href="https://github.com/elrouss/yandex_landing/blob/main/babel.config.js"><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="Иконка 'Babel'"></a>
+<a href="https://elrouss.github.io/rsschool-cv/cv"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Иконка 'Markdown'"></a>
 <a href="https://www.figma.com/file/kJFAe4gM4V1YT6uDrx4jpF/Month-of-Landings_external-link?t=bRw75piMibawBlDZ-6"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Иконка 'Figma'"></a>
 <a href=""><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Иконка 'Postman'"></a>
 <br>
