@@ -78,7 +78,7 @@ https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3
   <br>
   <a href="https://leetcode.com/elrouss/"><img width="450" src="https://leetcard.jacoblin.cool/elrouss?theme=nord&ext=heatmap" alt="Бейдж с достижениями на Leetcode"></a>
   <br>
-  <a href="https://www.codewars.com/users/elrouss"><img src="https://www.codewars.com/users/elrouss/badges/large" alt="badge showing rating of Boris Zashliapin on Codewars - an educational community for computer programming"></a>
+  <a href="https://www.codewars.com/users/rsschool_e730e62b58c73d40"><img src="https://www.codewars.com/users/rsschool_e730e62b58c73d40/badges/large" alt="badge showing rating of Boris Zashliapin on Codewars - an educational community for computer programming"></a>
   <br>
   Решил <b>300+</b> задач на <a href="https://www.codewars.com/users/elrouss">Codewars</a>, <b>250+</b> - на <a href="https://www.freecodecamp.org/elrouss">freeCodeCamp</a>, знакомлюсь с <a href="https://leetcode.com/elrouss/">LeetCode</a>
 </div>
