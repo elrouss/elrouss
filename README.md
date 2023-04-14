@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3
 
 <br>
 
-<h2>🔧 Изучаемые языки и технологии:</h2>
+<h2>🔧 Языки и технологии:</h2>
 <b>Frontend:</b>
 <br>
 <a href="https://github.com/elrouss/react-mesto-auth/blob/main/src/components/App/App.js"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Иконка 'React'"></a>
@@ -52,7 +52,7 @@ https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3
 <br>
 <i>* - можно кликнуть на каждый значок и в открытой вкладке увидеть пример написанного мной кода (там же возможно более подробно ознакомиться с той или иной работой; как вариант - выбрать один из репозиториев <a href="https://github.com/elrouss#:~:text=Customize%20your%20pins-,Pinned,-react%2Dmesto%2Dauth">ниже</a> либо посмотреть весь список <a href="https://github.com/elrouss?tab=repositories">тут</a>)</i>
 
-<h2>📈 В планах:</h2>
+<!-- <h2>📈 В планах:</h2>
 <b>Frontend:</b>
 <br>
 <a href=""><img src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white" alt="Иконка 'PostCSS'"></a>
@@ -60,9 +60,9 @@ https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3
 <br>
 <b>General:</b>
 <br>
-<a href=""><img src="https://shureed.github.io/images/badge.png" alt="Иконка алгоритмов" width="80"></a> - на данный момент изучаю самостоятельно <b>алгоритмы</b> по книге <a href="https://github.com/egonSchiele/grokking_algorithms">Адитьи Бхаргавы</a> и закрепляю свой навык написанием <a href="https://codepen.io/collection/ExbBJg">кода</a>
+<a href=""><img src="https://shureed.github.io/images/badge.png" alt="Иконка алгоритмов" width="80"></a> - на данный момент изучаю самостоятельно <b>алгоритмы</b> по книге <a href="https://github.com/egonSchiele/grokking_algorithms">Адитьи Бхаргавы</a> и закрепляю свой навык написанием <a href="https://codepen.io/collection/ExbBJg">кода</a> -->
 
-<br>
+<!-- <br> -->
 
 <!-- <h2 align="center">:man_student: Образование:</h2>
 <div align="center">
