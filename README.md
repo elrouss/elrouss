@@ -74,7 +74,7 @@ https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3
 <h2 align="center">✨ Статистика и достижения:</h2>
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=elrouss&theme=shades-of-purple&border_radius=1&date_format=%5BY%20%5DM%20j" height="190"/></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elrouss&theme=shades-of-purple&langs_count=8" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elrouss&layout=compact&theme=shades-of-purple&langs_count=8" height="190"/>
   <br>
   <a href="https://leetcode.com/elrouss/"><img width="450" src="https://leetcard.jacoblin.cool/elrouss?theme=nord&ext=heatmap" alt="Бейдж с достижениями на Leetcode"></a>
   <br>
