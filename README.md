@@ -10,7 +10,7 @@
 https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3-861f-69494e9d5c49.mp4
 
   </details>
-  (<a href="https://github.com/elrouss/elrouss/files/11954279/ZashliapinBD-frontend_ed05072023.pdf">здесь</a> можно скачать и посмотреть мое резюме)
+  (<a href="https://github.com/elrouss/elrouss/files/12128066/ZashliapinBD-frontend_ed21072023.pdf">здесь</a> можно скачать и посмотреть мое резюме)
 </div>
 
 <h2>🧘‍♂ О себе:</h2>
