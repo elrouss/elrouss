@@ -76,12 +76,12 @@ https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=elrouss&theme=shades-of-purple&border_radius=1&date_format=%5BY%20%5DM%20j" width="450"/></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elrouss&layout=compact&theme=shades-of-purple&langs_count=8" width="382"/>
-  <br>
-  <a href="https://leetcode.com/elrouss/"><img width="450" src="https://leetcard.jacoblin.cool/elrouss?theme=nord&ext=heatmap" alt="Бейдж с достижениями на Leetcode"></a>
+<!--  <br>
+  <a href="https://leetcode.com/elrouss/"><img width="450" src="https://leetcard.jacoblin.cool/elrouss?theme=nord&ext=heatmap" alt="Бейдж с достижениями на Leetcode"></a> -->
   <br>
   <a href="https://www.codewars.com/users/rsschool_e730e62b58c73d40"><img src="https://www.codewars.com/users/rsschool_e730e62b58c73d40/badges/large" alt="badge showing rating of Boris Zashliapin on Codewars - an educational community for computer programming"></a>
   <br>
-  Решил <b>400+</b> задач на <a href="https://www.codewars.com/users/elrouss">Codewars</a>, <b>250+</b> - на <a href="https://www.freecodecamp.org/elrouss">freeCodeCamp</a>, знакомлюсь с <a href="https://leetcode.com/elrouss/">LeetCode</a>
+  Решил <b>400+</b> задач на <a href="https://www.codewars.com/users/elrouss">Codewars</a>, <b>250+</b> - на <a href="https://www.freecodecamp.org/elrouss">freeCodeCamp</a>
 </div>
 
 <h2 align="center">🌐 Контакты:</h2>
