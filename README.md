@@ -1,6 +1,6 @@
 <h2 align="center"><b>Привет, мир! <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width="40" alt="Рука в приветственном жесте">
 <br>
-  Меня зовут Борис! Я frontend-разработчик</b> <img src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif" alt="Кот, печатающий на клавиатуре ноутбука" width="30"></h2>
+  Меня зовут Борис. Я frontend-разработчик</b> <img src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif" alt="Кот, печатающий на клавиатуре ноутбука" width="30"></h2>
   
  <div align="center">
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="600" alt="Веб-разработчик сидит на стуле напротив большого количества мониторов компьютеров, слушает музыку в наушниках и пишет программный код">
