@@ -49,6 +49,7 @@ https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3
 <a href="https://github.com/elrouss/yandex_landing/blob/main/babel.config.js"><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="Иконка 'Babel'"></a>
 <a href="https://elrouss.github.io/rsschool-cv/cv"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Иконка 'Markdown'"></a>
 <a href="https://www.figma.com/file/kJFAe4gM4V1YT6uDrx4jpF/Month-of-Landings_external-link?t=bRw75piMibawBlDZ-6"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Иконка 'Figma'"></a>
+<a href=""><img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="Иконка 'GIMP'"></a>
 <a href=""><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Иконка 'Postman'"></a>
 <br>
 <i>* - можно кликнуть на каждый значок и в открытой вкладке увидеть пример написанного мной кода (там же возможно более подробно ознакомиться с той или иной работой; как вариант - выбрать один из репозиториев <a href="https://github.com/elrouss#:~:text=Customize%20your%20pins-,Pinned,-react%2Dmesto%2Dauth">ниже</a> либо посмотреть весь список <a href="https://github.com/elrouss?tab=repositories">тут</a>)</i>
