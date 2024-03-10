@@ -1,7 +1,7 @@
 <h2 align="center"><b>Привет, мир! <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width="40" alt="Рука в приветственном жесте">
 <br>
   Меня зовут Борис. Я frontend-разработчик</b> <img src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif" alt="Кот, печатающий на клавиатуре ноутбука" width="30"></h2>
-  
+
  <div align="center">
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="600" alt="Веб-разработчик сидит на стуле напротив большого количества мониторов компьютеров, слушает музыку в наушниках и пишет программный код">
   <br>
@@ -10,7 +10,7 @@
 https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3-861f-69494e9d5c49.mp4
 
   </details>
-  (<a href="https://github.com/elrouss/elrouss/files/14320058/ZashliapinBD-frontend_ed17022024.pdf">здесь</a> можно скачать и посмотреть мое резюме)
+  (<a href="https://github.com/elrouss/elrouss/files/14551455/ZashliapinBD-frontend_ed10032024.pdf">здесь</a> можно скачать мое резюме)
 </div>
 
 <h2>🧘‍♂ О себе:</h2>
