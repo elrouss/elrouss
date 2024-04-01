@@ -48,6 +48,7 @@ https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3
 <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Иконка 'PHP'"></a>
 <a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Иконка 'MySQL'"></a>
 <a href="#"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Иконка 'NGINX'"></a>
+<a href="#"><img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" alt="Иконка 'Apache'"></a>
 
 <b>General:</b>
 <br>
