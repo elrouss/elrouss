@@ -31,6 +31,7 @@ https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3
 <a href="#"><img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" alt="Иконка 'Axios'"></a>
 <a href="https://github.com/Medical-Information/medical-information-frontend/blob/develop/src/utils/functions/shuffle-data.tsx"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Иконка 'TypeScript'"></a>
 <a href="https://github.com/elrouss/competitive-project-team-1/blob/main/scripts/pages/index.js"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Иконка 'JavaScript'"></a>
+<a href="#"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="Иконка 'jQuery'"></a>
 <a href=""><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Иконка 'Jest'"></a>
 <a href=""><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Иконка 'Cypress'"></a>
 <a href="https://github.com/Medical-Information/medical-information-frontend/blob/develop/src/components/cards/article-preview/article-preview.stories.tsx"><img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Иконка 'Storybook'"></a>
