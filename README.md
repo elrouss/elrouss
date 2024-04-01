@@ -44,7 +44,9 @@ https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3
 <a href="https://github.com/elrouss/express-mesto-gha/blob/main/app.js"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Иконка 'Express'"></a>
 <a href="https://github.com/elrouss/express-mesto-gha/blob/main/package.json"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Иконка 'Node JS'"></a>
 <a href="https://github.com/elrouss/express-mesto-gha/blob/main/app.js"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Иконка 'MongoDB'"></a>
-<a href=""><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Иконка 'NGINX'"></a>
+<a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Иконка 'PHP'"></a>
+<a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Иконка 'MySQL'"></a>
+<a href="#"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Иконка 'NGINX'"></a>
 
 <b>General:</b>
 <br>
