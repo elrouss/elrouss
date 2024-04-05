@@ -24,6 +24,7 @@ https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3
 <h2>🔧 Языки и технологии:</h2>
 <b>Frontend:</b>
 <br>
+<a href="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Иконка 'Vue.js'"></a>
 <a href="https://github.com/elrouss/maximum-test-assignment/blob/main/pages/%5BbrandName%5D/%5Bid%5D.jsx"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Иконка 'Next.js'"></a>
 <a href="https://github.com/elrouss/react-mesto-auth/blob/main/src/components/App/App.js"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Иконка 'React'"></a>
 <a href="#"><img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Иконка 'React Vite'"></a>
