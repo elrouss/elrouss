@@ -10,14 +10,12 @@
 https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3-861f-69494e9d5c49.mp4
 
   </details>
-  (<a href="https://github.com/elrouss/elrouss/files/14621305/ZashliapinBD-frontend_ed10032024.pdf">здесь</a> можно скачать мое резюме)
+  (<a href="https://github.com/elrouss/elrouss/files/14887713/ZashliapinBD-frontend_ed05042024.pdf">здесь</a> можно скачать мое резюме)
 </div>
 
 <h2>🧘‍♂ О себе:</h2>
-Будучи искусствоведом по образованию со степенью <a href="https://diploma.spbu.ru/gp/view?id=13325">магистра</a> я знаком со многими стилями. Классицизм, барокко, рококо... Их настолько много и каждый настолько уникален, что сложно выбрать себе в фавориты какой-то один. Однако с началом в 2022 году своего пути во <b>frontend-разработке</b>, я понял: мой самый любимый - <b>функциональный стиль программирования</b>.
-<br>
-<br>
-Обожаю писать код и работаю <a href="https://github.com/Kumiho1/lubimovka"><b>в команде</b></a>, придерживаясь credo: &laquo;Платон мне друг, но <i>console.log</i> дороже&raquo; 😄
+
+I just love coding :).
 
 <br>
 
@@ -33,6 +31,7 @@ https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3
 <a href="https://github.com/Medical-Information/medical-information-frontend/blob/develop/src/utils/functions/shuffle-data.tsx"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Иконка 'TypeScript'"></a>
 <a href="https://github.com/elrouss/competitive-project-team-1/blob/main/scripts/pages/index.js"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Иконка 'JavaScript'"></a>
 <a href="#"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="Иконка 'jQuery'"></a>
+<a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Иконка 'Bootstrap'"></a>
 <a href=""><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Иконка 'Jest'"></a>
 <a href=""><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Иконка 'Cypress'"></a>
 <a href="https://github.com/Medical-Information/medical-information-frontend/blob/develop/src/components/cards/article-preview/article-preview.stories.tsx"><img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Иконка 'Storybook'"></a>
