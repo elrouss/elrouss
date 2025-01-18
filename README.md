@@ -24,7 +24,8 @@ I just love coding :).
 <a href="#"><img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Иконка 'Vue.js'"></a>
 <a href="https://github.com/elrouss/maximum-test-assignment/blob/main/pages/%5BbrandName%5D/%5Bid%5D.jsx"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Иконка 'Next.js'"></a>
 <a href="https://github.com/elrouss/react-mesto-auth/blob/main/src/components/App/App.js"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Иконка 'React'"></a>
-<a href="#"><img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Иконка 'React Vite'"></a>
+<a href="#"><img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Иконка 'Vite'"></a>
+<a href="#"><img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" alt="Иконка 'Ant Design'"></a>
 <a href="https://github.com/elrouss/react-burger/blob/main/src/services/features/order-details/reducer.jsx"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Иконка 'Redux'"></a>
 <a href="#"><img src="https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999" alt="Иконка 'Redux Saga'"></a>
 <a href="#"><img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" alt="Иконка 'Axios'"></a>
@@ -61,11 +62,6 @@ I just love coding :).
 <i>* - можно кликнуть на каждый значок и в открытой вкладке увидеть пример написанного мной кода (там же возможно более подробно ознакомиться с той или иной работой; как вариант - выбрать один из репозиториев <a href="https://github.com/elrouss#:~:text=Customize%20your%20pins-,Pinned,-react%2Dmesto%2Dauth">ниже</a> либо посмотреть весь список <a href="https://github.com/elrouss?tab=repositories">тут</a>)</i>
 
 <!-- <h2>📈 В планах:</h2>
-<b>Frontend:</b>
-<br>
-<a href=""><img src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white" alt="Иконка 'PostCSS'"></a>
-<a href=""><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Иконка 'Vue'"></a>
-<br>
 <b>General:</b>
 <br>
 <a href=""><img src="https://shureed.github.io/images/badge.png" alt="Иконка алгоритмов" width="80"></a> - на данный момент изучаю самостоятельно <b>алгоритмы</b> по книге <a href="https://github.com/egonSchiele/grokking_algorithms">Адитьи Бхаргавы</a> и закрепляю свой навык написанием <a href="https://codepen.io/collection/ExbBJg">кода</a> -->
