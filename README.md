@@ -24,6 +24,7 @@ I just love coding :).
 <a href="#"><img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Иконка 'Vue.js'"></a>
 <a href="https://github.com/elrouss/maximum-test-assignment/blob/main/pages/%5BbrandName%5D/%5Bid%5D.jsx"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Иконка 'Next.js'"></a>
 <a href="https://github.com/elrouss/react-mesto-auth/blob/main/src/components/App/App.js"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Иконка 'React'"></a>
+<a href="#"><img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE" alt="Иконка 'Astro'"></a>
 <a href="#"><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Иконка 'Material UI'"></a>
 <a href="#"><img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" alt="Иконка 'Ant Design'"></a>
 <a href="https://github.com/elrouss/react-burger/blob/main/src/services/features/order-details/reducer.jsx"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Иконка 'Redux'"></a>
@@ -32,6 +33,7 @@ I just love coding :).
 <a href="https://github.com/Medical-Information/medical-information-frontend/blob/develop/src/utils/functions/shuffle-data.tsx"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Иконка 'TypeScript'"></a>
 <a href="https://github.com/elrouss/competitive-project-team-1/blob/main/scripts/pages/index.js"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Иконка 'JavaScript'"></a>
 <a href="#"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="Иконка 'jQuery'"></a>
+<a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Иконка 'Tailwind CSS'"></a>
 <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Иконка 'Bootstrap'"></a>
 <a href=""><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Иконка 'Jest'"></a>
 <a href=""><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Иконка 'Cypress'"></a>
@@ -61,8 +63,6 @@ I just love coding :).
 <a href="https://www.figma.com/file/kJFAe4gM4V1YT6uDrx4jpF/Month-of-Landings_external-link?t=bRw75piMibawBlDZ-6"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Иконка 'Figma'"></a>
 <a href=""><img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="Иконка 'GIMP'"></a>
 <a href=""><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Иконка 'Postman'"></a>
-<br>
-<i>* - можно кликнуть на каждый значок и в открытой вкладке увидеть пример написанного мной кода (там же возможно более подробно ознакомиться с той или иной работой; как вариант - выбрать один из репозиториев <a href="https://github.com/elrouss#:~:text=Customize%20your%20pins-,Pinned,-react%2Dmesto%2Dauth">ниже</a> либо посмотреть весь список <a href="https://github.com/elrouss?tab=repositories">тут</a>)</i>
 
 <!-- <h2>📈 В планах:</h2>
 <b>General:</b>
