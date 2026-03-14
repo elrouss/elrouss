@@ -21,10 +21,9 @@ I just love coding :).
 <h2>🔧 Языки и технологии:</h2>
 <b>Frontend:</b>
 <br>
-<a href="#"><img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Иконка 'Vue.js'"></a>
-<a href="https://github.com/elrouss/maximum-test-assignment/blob/main/pages/%5BbrandName%5D/%5Bid%5D.jsx"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Иконка 'Next.js'"></a>
 <a href="https://github.com/elrouss/react-mesto-auth/blob/main/src/components/App/App.js"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Иконка 'React'"></a>
-<a href="#"><img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE" alt="Иконка 'Astro'"></a>
+<a href="https://github.com/elrouss/maximum-test-assignment/blob/main/pages/%5BbrandName%5D/%5Bid%5D.jsx"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Иконка 'Next.js'"></a>
+<a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Иконка 'Angular'"></a>
 <a href="#"><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Иконка 'Material UI'"></a>
 <a href="#"><img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" alt="Иконка 'Ant Design'"></a>
 <a href="https://github.com/elrouss/react-burger/blob/main/src/services/features/order-details/reducer.jsx"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Иконка 'Redux'"></a>
@@ -32,7 +31,6 @@ I just love coding :).
 <a href="#"><img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" alt="Иконка 'Axios'"></a>
 <a href="https://github.com/Medical-Information/medical-information-frontend/blob/develop/src/utils/functions/shuffle-data.tsx"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Иконка 'TypeScript'"></a>
 <a href="https://github.com/elrouss/competitive-project-team-1/blob/main/scripts/pages/index.js"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Иконка 'JavaScript'"></a>
-<a href="#"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="Иконка 'jQuery'"></a>
 <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Иконка 'Tailwind CSS'"></a>
 <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Иконка 'Bootstrap'"></a>
 <a href=""><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Иконка 'Jest'"></a>
@@ -48,37 +46,28 @@ I just love coding :).
 <br>
 <a href="https://github.com/elrouss/express-mesto-gha/blob/main/app.js"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Иконка 'Express'"></a>
 <a href="https://github.com/elrouss/express-mesto-gha/blob/main/package.json"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Иконка 'Node JS'"></a>
-<a href=""><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Иконка 'Ruby on Rails'"></a>
-<a href=""><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Иконка 'Ruby'"></a>
+<a href="#"><img src="https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" alt="Иконка 'Strapi'"></a>
 <a href="https://github.com/elrouss/express-mesto-gha/blob/main/app.js"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Иконка 'MongoDB'"></a>
 <a href="#"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Иконка 'NGINX'"></a>
 
 <b>General:</b>
 <br>
+<a href=""><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="Иконка 'ChatGPT'"></a>
+<a href=""><img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Иконка 'Google Gemini'"></a>
+<a href=""><img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Иконка 'GitHub Copilot'"></a>
 <a href="https://github.com/elrouss/competitive-project-team-1/network"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Иконка 'Git'"></a>
 <a href="#"><img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Иконка 'Vite'"></a>
 <a href="https://github.com/elrouss/mesto/blob/main/webpack.config.js"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Иконка 'Webpack'"></a>
 <a href="#"><img src="https://img.shields.io/badge/rollup%20js-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white" alt="Иконка 'Rollup'"></a>
 <a href="#"><img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="Иконка 'Gulp'"></a>
 <a href="https://github.com/elrouss/yandex_landing/blob/main/babel.config.js"><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="Иконка 'Babel'"></a>
+<a href=""><img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" alt="Иконка 'Github Actions'"></a>
 <a href="https://elrouss.github.io/rsschool-cv/cv"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Иконка 'Markdown'"></a>
 <a href="https://www.figma.com/file/kJFAe4gM4V1YT6uDrx4jpF/Month-of-Landings_external-link?t=bRw75piMibawBlDZ-6"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Иконка 'Figma'"></a>
 <a href=""><img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="Иконка 'GIMP'"></a>
 <a href=""><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Иконка 'Postman'"></a>
 
-<!-- <h2>📈 В планах:</h2>
-<b>General:</b>
-<br>
-<a href=""><img src="https://shureed.github.io/images/badge.png" alt="Иконка алгоритмов" width="80"></a> - на данный момент изучаю самостоятельно <b>алгоритмы</b> по книге <a href="https://github.com/egonSchiele/grokking_algorithms">Адитьи Бхаргавы</a> и закрепляю свой навык написанием <a href="https://codepen.io/collection/ExbBJg">кода</a> -->
-
 <!-- <br> -->
-
-<!-- <h2 align="center">:man_student: Образование:</h2>
-<div align="center">
-
-|<img width="240" src="https://user-images.githubusercontent.com/108838349/211216539-bbb602c4-897b-49dd-868c-2a83df4d720f.png" alt="Скан сертификата, подтверждающий участие Бориса Зашляпина в разработке лендинга по заказу команды HR (Human Resources) Яндекс Практикума">|<img src="https://user-images.githubusercontent.com/108838349/211216223-91733ab8-01a9-4414-a389-b7e2c70181b7.jpeg" width="240" alt="Скан сертификата, подтверждающий прохождение Борисом Зашляпиным интенсива онлайн-школы 'Айтилогия'">|<img src="https://user-images.githubusercontent.com/108838349/215734968-bc6395a5-4a45-4f99-96a6-6e09b457d01c.png" width="200" alt="Скан сертификата, выданного Санкт-Петербургским государственным университетом с подтверждением владения Борисом Зашляпиным английским языком на уровне B2">|
-|---|---|---|
-  |<div align="center"><a href="https://practicum.yandex.ru/">Сертификат</a> участия в разработке<br><a href="https://github.com/elrouss/yandex_landing">лендинга</a> для HR-команды Яндекс Практикума<br>(2022)</div>|<div align="center"><a href="https://itlogia.ru/">Сертификат</a> о прохождении<br>интенсива по теме <a href="https://github.com/elrouss/cars-hw">&laquo;Frontend Start&raquo;</a><br>(2022)</div>|<div align="center"><a href="https://spbu.ru/">Сертификат</a> о сдаче теста по<br>английскому языку (B2)<br>(2016)</div>| -->
 
 <h2 align="center">✨ Статистика и достижения:</h2>
 <div align="center">
